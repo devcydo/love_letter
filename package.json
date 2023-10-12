@@ -1,7 +1,7 @@
 {
-  "name": "hbd_lili",
+  "name": "love_letter",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "homepage": "http://devcydo.github.io/love_letter",
   "scripts": {
